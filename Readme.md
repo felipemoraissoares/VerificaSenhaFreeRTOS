@@ -17,10 +17,14 @@ Este é um projeto desenvolvido para a disciplina de sistemas embarcados, no cur
   <img align=center
   	src='https://ik.imagekit.io/eogtlka8vuq/Medias_Github/SAMR21_vtzpfOP1EU.PNG' style="zoom:50%;" >
 
+
+
 * **Display OLED1 Xplained Pro: **OLED1 Xplained Pro é uma placa de extensão básica para as plataformas Xplained Pro com três LEDs, três botões, e um display OLED. O display OLED é controlado via a interface SPI que vai até 100MHz. OLED1 Xplained Pro se conecta a qualquer cabeçalho de extensão padrão Xplained Pro em qualquer placa Xplained.
 
   <img align=center
-  	src='https://ik.imagekit.io/eogtlka8vuq/Medias_Github/OLED1_HNKjWMXOU.PNG' style="zoom:38%;" >
+  	src='https://ik.imagekit.io/eogtlka8vuq/Medias_Github/OLED1_HNKjWMXOU.PNG' style="zoom:30%;" >
+
+
 
 * **Atmel Studio: **Basicamente esta interface permite o desenvolvimento de projetos com microcontroladores da empresa Atmel, baseada no visual studio shell , o atmel studio 7 reduz drasticamente o tempo de desenvolvimento, com ferramentas de debug e interfaces gráficas que aceleram o tempo de configuração e depuração para os microcontroladores.
 
